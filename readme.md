@@ -41,11 +41,6 @@ Before running the application, make sure to ...
 
 ## Definition Of Done (DOD)
 
-- [ ] Ensure all code follows the style guide.
-- [ ] Implement comprehensive unit tests for all major functionalities.
-- [ ] Verify that the application runs without errors.
-- [ ] Document all changes made and update the README accordingly.
-- [ ] Code review completed by at least one team member.
 - [ ] To complete
 
 ## Design
