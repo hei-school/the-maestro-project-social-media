@@ -1,0 +1,24 @@
+{
+  "name": "the-maestro-project-social-media",
+  "version": "1.0.0",
+  "description": "Sentient Analysis on Social Media is an application that utilizes advanced natural language processing and machine learning techniques to analyze social media content. The goal is to provide users with meaningful insights into the sentiments expressed in various social media posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "your-start-command-here" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hei-school/the-maestro-project-social-media.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hei-school/the-maestro-project-social-media/issues"
+  },
+  "homepage": "https://github.com/hei-school/the-maestro-project-social-media#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
