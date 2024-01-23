@@ -1,4 +1,4 @@
-# Sentient Analysis on Social Media
+# Sentiment Analysis on Social Media
 
 
 ## Overview
@@ -12,32 +12,10 @@ Sentient Analysis on Social Media is an application that utilizes advanced natur
 - **Sentiment Analysis:**
 - **Sentiment Analysis:**
 
-
-## Installation
-
-```bash
-#lorem ipsum
-```
-
 ## Usage
 
-1. Lorem ipsum
-2. 
-3. 
-
-```bash
-#lorem ipsum
-```
-
-## Configuration
-
-Before running the application, make sure to ...
-
-- **Twitter:**
-  - lorem
-
-- **Facebook:**
-  - lorem
+1. The sentiment analysis app is for everyone who wants to change and see know how they feel in the moment
+2. This app is too for everyone who want some advices for their feelings or mood and to prevent their to change hobit. 
 
 # Definition of Done (DoD)
 
