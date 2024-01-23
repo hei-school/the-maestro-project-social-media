@@ -39,9 +39,58 @@ Before running the application, make sure to ...
 - **Facebook:**
   - lorem
 
-## Definition Of Done (DOD)
+# Definition of Done (DoD)
 
-- [ ] To complete
+## Code Implementation:
+
+- The source code is written and documented according to established coding standards.
+- All specified features have been implemented.
+
+## Unit Tests:
+
+- Unit tests have been created for each key component.
+- All unit tests pass successfully.
+
+## Continuous Integration:
+
+- The code has been successfully integrated into the continuous integration system.
+- No warnings or errors during integration.
+
+## System Tests:
+
+- System tests have been conducted to ensure the overall proper functioning of the application.
+- All features are tested for usability and performance.
+
+## Functionality Validation:
+
+- The functionality is validated using test profiles from Facebook and Twitter.
+- Sentiment analysis results align with expectations.
+
+## Documentation:
+
+- Documentation is updated to reflect the modifications made.
+- Clear instructions on configuration and deployment are included.
+
+## Code Reviews:
+
+- The code has been reviewed by at least one peer.
+- Comments from code reviews have been addressed and resolved.
+
+## Security:
+
+- Best security practices are followed.
+- No known security vulnerabilities are present.
+
+## Performance:
+
+- The application's performance is acceptable, even under load.
+- No issues of memory leaks or resource problems have been identified.
+
+## Ready for Delivery:
+
+- All the above elements have been checked and are complete.
+- The functionality is ready for delivery.
+
 
 ## Design
 
