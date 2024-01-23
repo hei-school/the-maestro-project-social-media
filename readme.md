@@ -1,4 +1,4 @@
-# Sentient Analysis on Social Media
+# Sentiment Analysis on Social Media
 
 
 ## Overview
@@ -12,36 +12,63 @@ Sentient Analysis on Social Media is an application that utilizes advanced natur
 - **Sentiment Analysis:**
 - **Sentiment Analysis:**
 
-
-## Installation
-
-```bash
-#lorem ipsum
-```
-
 ## Usage
 
-1. Lorem ipsum
-2. 
-3. 
+1. The sentiment analysis app is for everyone who wants to change and see know how they feel in the moment
+2. This app is too for everyone who want some advices for their feelings or mood and to prevent their to change hobit. 
 
-```bash
-#lorem ipsum
-```
+# Definition of Done (DoD)
 
-## Configuration
+## Code Implementation:
 
-Before running the application, make sure to ...
+- The source code is written and documented according to established coding standards.
+- All specified features have been implemented.
 
-- **Twitter:**
-  - lorem
+## Unit Tests:
 
-- **Facebook:**
-  - lorem
+- Unit tests have been created for each key component.
+- All unit tests pass successfully.
 
-## Definition Of Done (DOD)
+## Continuous Integration:
 
-- [ ] To complete
+- The code has been successfully integrated into the continuous integration system.
+- No warnings or errors during integration.
+
+## System Tests:
+
+- System tests have been conducted to ensure the overall proper functioning of the application.
+- All features are tested for usability and performance.
+
+## Functionality Validation:
+
+- The functionality is validated using test profiles from Facebook and Twitter.
+- Sentiment analysis results align with expectations.
+
+## Documentation:
+
+- Documentation is updated to reflect the modifications made.
+- Clear instructions on configuration and deployment are included.
+
+## Code Reviews:
+
+- The code has been reviewed by at least one peer.
+- Comments from code reviews have been addressed and resolved.
+
+## Security:
+
+- Best security practices are followed.
+- No known security vulnerabilities are present.
+
+## Performance:
+
+- The application's performance is acceptable, even under load.
+- No issues of memory leaks or resource problems have been identified.
+
+## Ready for Delivery:
+
+- All the above elements have been checked and are complete.
+- The functionality is ready for delivery.
+
 
 ## Design
 
