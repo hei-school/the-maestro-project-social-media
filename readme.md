@@ -1,28 +1,30 @@
 # Sentiment Analysis on Social Media
 
 
+## Code Implementation:
+
+- The source code is written and documented according to established coding standards.
+- All specified features have been implemented.
+- For the Back-end implementations, here is the code source [Sentiment Back-end](https://github.com/SentimentDetector/backend-sentinent/tree/dev)
+- For the Front-end implementation, here is the code source [Sentiment Front-end](https://github.com/SentimentDetector/social)
+
 ## Overview
 
 Sentient Analysis on Social Media is an application that utilizes advanced natural language processing and machine learning techniques to analyze social media content. The goal is to provide users with meaningful insights into the sentiments expressed in various social media posts.
 
 ## Features
 
-- **Sentiment Analysis:**
-- **Sentiment Analysis:**
-- **Sentiment Analysis:**
-- **Sentiment Analysis:**
+- **Sentiment Analysis: Authentification with a provide profil**
+- **Sentiment Analysis: Viewing all post of target profil**
+- **Sentiment Analysis: Analysing all reaction on each post**
+- **Sentiment Analysis: Provides sentiment feedback**
 
 ## Usage
 
-1. The sentiment analysis app is for everyone who wants to change and see know how they feel in the moment
-2. This app is too for everyone who want some advices for their feelings or mood and to prevent their to change hobit. 
+. The sentiment analysis app is for everyone who wants to change and see know how they feel in the moment
+. This app also is for everyone who want some advices for their feelings or mood and to prevent their to change hobit. 
 
 # Definition of Done (DoD)
-
-## Code Implementation:
-
-- The source code is written and documented according to established coding standards.
-- All specified features have been implemented.
 
 ## Unit Tests:
 
