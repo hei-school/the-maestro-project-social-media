@@ -12,16 +12,16 @@ Sentiment Analysis on Social Media is an application that uses advanced techniqu
   
 ## Features
 
-- **Facebook profile login: Authentification with a provided facebook profile**
-- **Post Discovery:  View all posts from the target profile to gain insights into their social media activity**
-- **Reaction Analysis: Analyze reactions on each post comprehensively to understand audience engagement.**
-- **Sentiment Feedback: Provide sentiment feedback based on sentiment analysis to help users understand the emotional impact of their social media content.**
+- **Facebook profile login**: Authentification with a provided facebook profile
+- **Post Discovery**:  View all posts from the target profile to gain insights into their social media activity
+- **Reaction Analysis**: Analyze reactions on each post comprehensively to understand audience engagement.
+- **Sentiment Feedback**: Provide sentiment feedback based on sentiment analysis to help users understand the emotional impact of their social media content.
 
 ## Usage
 
 The sentiment analysis app is for everyone who wants to understand and monitor their feelings in real-time. This app is also for anyone seeking advice on managing their emotions or mood and preventing the development of negative habits.
 
-# Dependencies
+## Dependencies
 
 The development of this project has been supported by the following essential libraries and tools:
 
@@ -78,3 +78,10 @@ The development of this project has been supported by the following essential li
 
 - All the above elements have been checked and are complete.
 - The functionality is ready for delivery.
+
+## Contributing
+
+We welcome contributions from the community to enhance and improve the project
+
+## Reporting issues
+If you encounter any bugs, glitches, or unexpected behavior while using the project, please open an issue on our issue tracker. Be sure to provide detailed steps to reproduce the issue and include any relevant screenshots or error messages.
