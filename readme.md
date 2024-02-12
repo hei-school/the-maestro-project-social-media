@@ -81,13 +81,13 @@ The development of this project has been supported by the following essential li
 
 # Sprint Overview (Social Media)
 
-Please find the link to the detailed Sprint Overview [here]([link](https://docs.google.com/document/d/1FotJWmnBWzXhrgvkQ3GKZTT8FDcBq7ZMEVCaXLbftx0/edit?fbclid=IwAR28yZ_Mksu44fwu2u_BW5NQlaCBjquSCrI5wpffYoD5Pd1RoYKgNc417eU)).
+Please find the link to the detailed Sprint Overview [here]((https://docs.google.com/document/d/1FotJWmnBWzXhrgvkQ3GKZTT8FDcBq7ZMEVCaXLbftx0/edit?fbclid=IwAR28yZ_Mksu44fwu2u_BW5NQlaCBjquSCrI5wpffYoD5Pd1RoYKgNc417eU)).
 
 # Authorization Blockage in Meta Application
 
 Currently, the Meta application only allows administrators to log in, thereby blocking access for other external users. Despite our efforts to resolve this issue, we have not succeeded in obtaining a solution from Meta.
 
-As a response, we offer a detailed demonstration video ([here]([link](https://drive.google.com/file/d/1fDwcEq17Or_hlX1Os9JUUeEzhNkH94MV/view?usp=drive_link))) and a mock-up page within the application to illustrate its functioning to non-administrative members.
+As a response, we offer a detailed demonstration video ([here]((https://drive.google.com/file/d/1fDwcEq17Or_hlX1Os9JUUeEzhNkH94MV/view?usp=drive_link))) and a mock-up page within the application to illustrate its functioning to non-administrative members.
 
 
 ## Contributing
