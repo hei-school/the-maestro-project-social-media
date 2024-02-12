@@ -1,27 +1,27 @@
 # Sentiment Analysis on Social Media
 
-## Overview
+### Overview
 
 Sentiment Analysis on Social Media is an application that uses advanced techniques to understand emotions in social media posts. It aims to provide users with insights into the feelings expressed in their posts and feedback based on the reactions to those posts.
 
-## Code Implementation:
+###Code Implementation:
 
   For the Back-end implementations, here is the source code [here](https://github.com/SentimentDetector/backend-sentinent/tree/dev)
   
   For the Front-end implementation, here is the source code [here](https://github.com/SentimentDetector/social)
   
-## Features
+### Features
 
 - **Facebook profile login**: Authentification with a provided facebook profile
 - **Post Discovery**:  View all posts from the target profile to gain insights into their social media activity
 - **Reaction Analysis**: Analyze reactions on each post comprehensively to understand audience engagement.
 - **Sentiment Feedback**: Provide sentiment feedback based on sentiment analysis to help users understand the emotional impact of their social media content.
 
-## Usage
+### Usage
 
 The sentiment analysis app is for everyone who wants to understand and monitor their feelings in real-time. This app is also for anyone seeking advice on managing their emotions or mood and preventing the development of negative habits.
 
-## Dependencies
+### Dependencies
 
 The development of this project has been supported by the following essential libraries and tools:
 
@@ -32,7 +32,7 @@ The development of this project has been supported by the following essential li
 - **ESLint**: JavaScript linter for maintaining code quality and adhering to coding standards.
 - **dotenv**: Dependency for managing environment variables in Node.js applications.
 
-# Definition of Done (DoD)
+## Definition of Done (DoD)
 
 ### Unit Tests:
 
@@ -79,15 +79,15 @@ The development of this project has been supported by the following essential li
 - All the above elements have been checked and are complete.
 - The functionality is ready for delivery.
 
-# Sprint Overview (Social Media)
+## Sprint Overview (Social Media)
 
-Please find the link to the detailed Sprint Overview [here]((https://docs.google.com/document/d/1FotJWmnBWzXhrgvkQ3GKZTT8FDcBq7ZMEVCaXLbftx0/edit?fbclid=IwAR28yZ_Mksu44fwu2u_BW5NQlaCBjquSCrI5wpffYoD5Pd1RoYKgNc417eU)).
+Please find the link to the detailed Sprint Overview [here](https://docs.google.com/document/d/1FotJWmnBWzXhrgvkQ3GKZTT8FDcBq7ZMEVCaXLbftx0/edit?fbclid=IwAR28yZ_Mksu44fwu2u_BW5NQlaCBjquSCrI5wpffYoD5Pd1RoYKgNc417eU).
 
-# Authorization Blockage in Meta Application
+## Authorization Blockage in Meta Application
 
 Currently, the Meta application only allows administrators to log in, thereby blocking access for other external users. Despite our efforts to resolve this issue, we have not succeeded in obtaining a solution from Meta.
 
-As a response, we offer a detailed demonstration video ([here]((https://drive.google.com/file/d/1fDwcEq17Or_hlX1Os9JUUeEzhNkH94MV/view?usp=drive_link))) and a mock-up page within the application to illustrate its functioning to non-administrative members.
+As a response, we offer a detailed demonstration video ([here](https://drive.google.com/file/d/1fDwcEq17Or_hlX1Os9JUUeEzhNkH94MV/view?usp=drive_link) and a mock-up page within the application to illustrate its functioning to non-administrative members.
 
 
 ## Contributing
